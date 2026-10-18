@@ -1,0 +1,23 @@
+# Unreal Engine 项目的 .gitignore
+
+# 编译产物
+Binaries/
+DerivedDataCache/
+Intermediate/
+
+# 编辑器自动保存和本地状态
+Saved/
+
+# Visual Studio 生成的文件
+.vs/
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# VSCode 本地配置
+.vscode/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
